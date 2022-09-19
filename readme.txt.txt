@@ -1,0 +1,1 @@
+Este es un codigo para diseñar una tarjeta en el que incluye imagen y texto.
